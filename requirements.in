@@ -1,0 +1,17 @@
+torch
+scipy
+pandas
+optuna
+seaborn
+librosa
+datasets
+EMD-signal
+torchaudio
+matplotlib
+tensorflow
+statsmodels
+transformers
+scikit-learn
+
+
+numpy==1.26.4
