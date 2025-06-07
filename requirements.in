@@ -5,6 +5,8 @@ optuna
 seaborn
 librosa
 datasets
+tf-keras
+accelerate
 EMD-signal
 torchaudio
 matplotlib
