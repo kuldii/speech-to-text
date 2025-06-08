@@ -1,10 +1,13 @@
 torch
 scipy
+jiwer
 pandas
 optuna
+gradio
 seaborn
 librosa
 datasets
+evaluate
 tf-keras
 accelerate
 EMD-signal

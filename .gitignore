@@ -2,3 +2,4 @@ datasets/
 requirements.txt
 whisper-finetuned/
 models/
+.gradio/
